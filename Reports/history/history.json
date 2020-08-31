@@ -1,0 +1,234 @@
+{
+  "4b6eff9bf00679fbeb72347ba91a7f74" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9917edb84d13fd8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598707506061,
+        "stop" : 1598707507457,
+        "duration" : 1396
+      }
+    } ]
+  },
+  "3b21b05233e1c41e3b7c17ea70f857c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e934f44e207c52e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598707467083,
+        "stop" : 1598707467203,
+        "duration" : 120
+      }
+    } ]
+  },
+  "9a09132a15d8381cfe04ed9496042cd2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "380c542cfad0c2c1",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: //td[contains(text(),'Bill Gates')]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LIN57000094', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 7660, moz:profile: C:\\Users\\jaikuria\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: d9922ae0-e221-43b0-9200-78b8674b697a\n*** Element info: {Using=xpath, value=//td[contains(text(),'Bill Gates')]}",
+      "time" : {
+        "start" : 1598707535571,
+        "stop" : 1598707561737,
+        "duration" : 26166
+      }
+    } ]
+  },
+  "641d3745f74febf866a4b6b26107e45d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb11b814eb7f4227",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598707467216,
+        "stop" : 1598707467673,
+        "duration" : 457
+      }
+    } ]
+  },
+  "e1d277bb883afba9404db6bfbcee7c8a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8de5cec9da255269",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598707466824,
+        "stop" : 1598707466872,
+        "duration" : 48
+      }
+    } ]
+  },
+  "f65c62252b34538338575d2f8705aa0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3bab0a43a83e000d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598707480526,
+        "stop" : 1598707480532,
+        "duration" : 6
+      }
+    } ]
+  },
+  "77a6c4250c75b54c84ce39981a5cdae0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c98b284a86174423",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598707492883,
+        "stop" : 1598707493763,
+        "duration" : 880
+      }
+    } ]
+  },
+  "e6999b34ffa40cd23a6ffc2aea12af1b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8258db2086487067",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: //div[text()='Create New Contact']\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LIN57000094', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 17108, moz:profile: C:\\Users\\jaikuria\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: dca6e35f-50b6-490e-ae11-d3dbb91c5f10\n*** Element info: {Using=xpath, value=//div[text()='Create New Contact']}",
+      "time" : {
+        "start" : 1598707643852,
+        "stop" : 1598707669176,
+        "duration" : 25324
+      }
+    } ]
+  },
+  "4e2259e6cecf70616780c489e51ca090" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9a53fb9883a7505a",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: //td[contains(text(),'Steve Jobs')]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LIN57000094', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 7336, moz:profile: C:\\Users\\jaikuria\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 0ff39171-8a51-475c-ac87-29ed8ed106d7\n*** Element info: {Using=xpath, value=//td[contains(text(),'Steve Jobs')]}",
+      "time" : {
+        "start" : 1598707576770,
+        "stop" : 1598707604594,
+        "duration" : 27824
+      }
+    } ]
+  },
+  "eb95e02ec367284e1f9774875d907d08" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70d2d7b7cca5eb29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598707522627,
+        "stop" : 1598707522658,
+        "duration" : 31
+      }
+    } ]
+  },
+  "4d7bc3cb1a077a7b5390e30f0778be49" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f5983e06b8d7721",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: //div[text()='Create New Contact']\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LIN57000094', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 16008, moz:profile: C:\\Users\\jaikuria\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: f4e7a9f9-ec95-46e5-bfe3-2e5902903518\n*** Element info: {Using=xpath, value=//div[text()='Create New Contact']}",
+      "time" : {
+        "start" : 1598707685485,
+        "stop" : 1598707713539,
+        "duration" : 28054
+      }
+    } ]
+  },
+  "65ff01cc9f03e86236da94f5d40f1596" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98aa9c5e80804867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598707620132,
+        "stop" : 1598707628720,
+        "duration" : 8588
+      }
+    } ]
+  }
+}

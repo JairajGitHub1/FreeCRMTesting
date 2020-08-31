@@ -1,0 +1,129 @@
+{
+  "uid" : "1d60bac2f507c576",
+  "name" : "verifyContactsLinkTest",
+  "fullName" : "com.crm.qa.testcases.HomePageTest.verifyContactsLinkTest",
+  "historyId" : "4b6eff9bf00679fbeb72347ba91a7f74",
+  "time" : {
+    "start" : 1598563357996,
+    "stop" : 1598563359229,
+    "duration" : 1233
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598563237460,
+      "stop" : 1598563269665,
+      "duration" : 32205
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598563330744,
+      "stop" : 1598563357982,
+      "duration" : 27238
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step: Enter Login Credentials & Login | Username: mj.jairaj@gmail.com  Password: Test@123",
+      "time" : {
+        "start" : 1598563357564,
+        "stop" : 1598563357982,
+        "duration" : 418
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "mj.jairaj@gmail.com"
+      }, {
+        "name" : "pwd",
+        "value" : "Test@123"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1598563359240,
+      "stop" : 1598563360618,
+      "duration" : 1378
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.crm.qa.testcases.HomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.crm.qa.testcases.HomePageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyContactsLinkTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.crm.qa.testcases.HomePageTest"
+  }, {
+    "name" : "host",
+    "value" : "LIN57000094"
+  }, {
+    "name" : "thread",
+    "value" : "33748@LIN57000094.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d60bac2f507c576.json",
+  "parameterValues" : [ ]
+}

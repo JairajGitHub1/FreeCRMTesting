@@ -1,0 +1,37 @@
+{
+  "total" : 12,
+  "items" : [ {
+    "uid" : "f416afe67be4bfdcd7f18b618c24be1b",
+    "name" : "EP001",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "465df028f38019b5402a287795e07887",
+    "name" : "EP002",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "6090a72fb8ca5ce95798a16bf892f490",
+    "name" : "EP003",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

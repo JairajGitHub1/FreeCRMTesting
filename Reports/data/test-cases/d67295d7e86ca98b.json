@@ -1,0 +1,129 @@
+{
+  "uid" : "d67295d7e86ca98b",
+  "name" : "selectMultipleContactsTest",
+  "fullName" : "com.crm.qa.testcases.ContactsPageTest.selectMultipleContactsTest",
+  "historyId" : "4e2259e6cecf70616780c489e51ca090",
+  "time" : {
+    "start" : 1598472510572,
+    "stop" : 1598472515905,
+    "duration" : 5333
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598472498139,
+      "stop" : 1598472510549,
+      "duration" : 12410
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step: Enter Login Credentials & Login | Username: mj.jairaj@gmail.com  Password: Test@123",
+      "time" : {
+        "start" : 1598472508796,
+        "stop" : 1598472509200,
+        "duration" : 404
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "mj.jairaj@gmail.com"
+      }, {
+        "name" : "pwd",
+        "value" : "Test@123"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598472418764,
+      "stop" : 1598472429759,
+      "duration" : 10995
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1598472515910,
+      "stop" : 1598472517360,
+      "duration" : 1450
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.crm.qa.testcases.ContactsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.crm.qa.testcases.ContactsPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectMultipleContactsTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.crm.qa.testcases.ContactsPageTest"
+  }, {
+    "name" : "host",
+    "value" : "LIN57000094"
+  }, {
+    "name" : "thread",
+    "value" : "36696@LIN57000094.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d67295d7e86ca98b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Unable to locate element: //td[contains(text(),'Bill Gates')]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LIN57000094', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 7660, moz:profile: C:\\Users\\jaikuria\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: d9922ae0-e221-43b0-9200-78b8674b697a\n*** Element info: {Using=xpath, value=//td[contains(text(),'Bill Gates')]}",
+      "children" : [ {
+        "name" : "selectSingleContactsTest",
+        "uid" : "380c542cfad0c2c1",
+        "parentUid" : "4c3e9ebabe414a3ca7a3a76ce8e1aff9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598707535571,
+          "stop" : 1598707561737,
+          "duration" : 26166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c3e9ebabe414a3ca7a3a76ce8e1aff9"
+    }, {
+      "name" : "Unable to locate element: //td[contains(text(),'Steve Jobs')]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LIN57000094', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 7336, moz:profile: C:\\Users\\jaikuria\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 0ff39171-8a51-475c-ac87-29ed8ed106d7\n*** Element info: {Using=xpath, value=//td[contains(text(),'Steve Jobs')]}",
+      "children" : [ {
+        "name" : "selectMultipleContactsTest",
+        "uid" : "9a53fb9883a7505a",
+        "parentUid" : "a7aede0e70b433e5cbf25471e79831fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598707576770,
+          "stop" : 1598707604594,
+          "duration" : 27824
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a7aede0e70b433e5cbf25471e79831fa"
+    }, {
+      "name" : "Unable to locate element: //div[text()='Create New Contact']\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LIN57000094', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 17108, moz:profile: C:\\Users\\jaikuria\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: dca6e35f-50b6-490e-ae11-d3dbb91c5f10\n*** Element info: {Using=xpath, value=//div[text()='Create New Contact']}",
+      "children" : [ {
+        "name" : "validateCreateNewContact",
+        "uid" : "8258db2086487067",
+        "parentUid" : "101a32a1e61152b58d52bb494b81e462",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598707643852,
+          "stop" : 1598707669176,
+          "duration" : 25324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chris", "Holier", "Amazon", "chris.holier@amazon.com" ]
+      } ],
+      "uid" : "101a32a1e61152b58d52bb494b81e462"
+    }, {
+      "name" : "Unable to locate element: //div[text()='Create New Contact']\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LIN57000094', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 16008, moz:profile: C:\\Users\\jaikuria\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: f4e7a9f9-ec95-46e5-bfe3-2e5902903518\n*** Element info: {Using=xpath, value=//div[text()='Create New Contact']}",
+      "children" : [ {
+        "name" : "validateCreateNewContact",
+        "uid" : "8f5983e06b8d7721",
+        "parentUid" : "be2952c8ef9f5303077be3bf208d31c5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598707685485,
+          "stop" : 1598707713539,
+          "duration" : 28054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Ram", "Adarsh", "ebay", "ram.adarsh@ebay.com" ]
+      } ],
+      "uid" : "be2952c8ef9f5303077be3bf208d31c5"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,141 @@
+{
+  "uid" : "71ed72cc2eff939d",
+  "name" : "validateCreateNewContact",
+  "fullName" : "com.crm.qa.testcases.ContactsPageTest.validateCreateNewContact",
+  "historyId" : "65ff01cc9f03e86236da94f5d40f1596",
+  "time" : {
+    "start" : 1598563493253,
+    "stop" : 1598563501635,
+    "duration" : 8382
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598563464089,
+      "stop" : 1598563493212,
+      "duration" : 29123
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step: Enter Login Credentials & Login | Username: mj.jairaj@gmail.com  Password: Test@123",
+      "time" : {
+        "start" : 1598563491500,
+        "stop" : 1598563491936,
+        "duration" : 436
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "mj.jairaj@gmail.com"
+      }, {
+        "name" : "pwd",
+        "value" : "Test@123"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598563237460,
+      "stop" : 1598563269665,
+      "duration" : 32205
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1598563501648,
+      "stop" : 1598563503201,
+      "duration" : 1553
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.crm.qa.testcases.ContactsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.crm.qa.testcases.ContactsPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "validateCreateNewContact"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.crm.qa.testcases.ContactsPageTest"
+  }, {
+    "name" : "host",
+    "value" : "LIN57000094"
+  }, {
+    "name" : "thread",
+    "value" : "33748@LIN57000094.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Tom"
+  }, {
+    "name" : "arg1",
+    "value" : "Peter"
+  }, {
+    "name" : "arg2",
+    "value" : "Google"
+  }, {
+    "name" : "arg3",
+    "value" : "tomo.peter@google.com"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71ed72cc2eff939d.json",
+  "parameterValues" : [ "Tom", "Peter", "Google", "tomo.peter@google.com" ]
+}

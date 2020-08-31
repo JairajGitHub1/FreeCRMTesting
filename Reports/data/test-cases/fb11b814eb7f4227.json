@@ -1,0 +1,195 @@
+{
+  "uid" : "fb11b814eb7f4227",
+  "name" : "Validate: Login is successful and Homepage is displayed",
+  "fullName" : "com.crm.qa.testcases.LoginPageTest.loginTest",
+  "historyId" : "641d3745f74febf866a4b6b26107e45d",
+  "time" : {
+    "start" : 1598707467216,
+    "stop" : 1598707467673,
+    "duration" : 457
+  },
+  "description" : "Test Case Description: Verify Login is successful",
+  "descriptionHtml" : "<p>Test Case Description: Verify Login is successful</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598707448650,
+      "stop" : 1598707466722,
+      "duration" : 18072
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description: Verify Login is successful",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Validate Method: Login Test",
+      "time" : {
+        "start" : 1598707467216,
+        "stop" : 1598707467672,
+        "duration" : 456
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Step: Enter Login Credentials & Login | Username: mj.jairaj@gmail.com  Password: Test@123",
+        "time" : {
+          "start" : 1598707467220,
+          "stop" : 1598707467671,
+          "duration" : 451
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "user",
+          "value" : "mj.jairaj@gmail.com"
+        }, {
+          "name" : "pwd",
+          "value" : "Test@123"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1598707467679,
+      "stop" : 1598707468950,
+      "duration" : 1271
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "LIN57000094"
+  }, {
+    "name" : "thread",
+    "value" : "1460@LIN57000094.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Feature 3: Admin Login Credentials"
+  }, {
+    "name" : "epic",
+    "value" : "EP003"
+  }, {
+    "name" : "story",
+    "value" : "User Story: Validate Login Successful with Admin credentials"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "9cef074b5d792a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598563270326,
+        "stop" : 1598563270789,
+        "duration" : 463
+      }
+    }, {
+      "uid" : "13e4313b8669c25d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598474475363,
+        "stop" : 1598474475756,
+        "duration" : 393
+      }
+    }, {
+      "uid" : "339330a139aeaf08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598474175082,
+        "stop" : 1598474175485,
+        "duration" : 403
+      }
+    }, {
+      "uid" : "92eb88cf73a8c1b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598472430274,
+        "stop" : 1598472430689,
+        "duration" : 415
+      }
+    }, {
+      "uid" : "5d7f78314a8f97fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598470545667,
+        "stop" : 1598470546084,
+        "duration" : 417
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb11b814eb7f4227.json",
+  "parameterValues" : [ ]
+}

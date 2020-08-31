@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Funcional: Test Automation">
+
+
+
+	<!--  ========================================================================= -->	
+	<!--  You need to execute the code from here for "Extent report to be generated"-->
+	<!--  ========================================================================= -->	
+
+	
+    <listeners>
+		
+	<listener class-name="com.crm.qa.ExtentReportListener.ExtentReportNewListenerImplementation"/>
+					
+	<!-- <listener class-name="com.crm.qa.ExtentReportListener.ExtentReportListener"/>	 -->
+	<!-- <listener class-name="com.crm.qa.ExtentReportListener.ExtentReportNewListenerImplementation"/> -->
+				
+	</listeners>
+		
+	<test thread-count = '2' name="CRM App Test Cases">
+		<classes>
+			<class name="com.crm.qa.testcases.LoginPageTest"></class>
+			<!-- <class name="com.crm.qa.testcases.HomePageTest"></class>
+			<class name="com.crm.qa.testcases.ContactsPageTest"></class>-->
+		</classes>
+	</test>
+	
+</suite>
+

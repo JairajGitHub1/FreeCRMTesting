@@ -1,0 +1,1 @@
+selectMultipleContactsTest failed and screenshot taken!

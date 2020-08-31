@@ -1,0 +1,147 @@
+{
+  "uid" : "aac22af47cd335e8",
+  "name" : "Validate: Classic CRM Link",
+  "fullName" : "com.crm.qa.testcases.LoginPageTest.classicCRMlnkTest",
+  "historyId" : "3b21b05233e1c41e3b7c17ea70f857c0",
+  "time" : {
+    "start" : 1598474475259,
+    "stop" : 1598474475350,
+    "duration" : 91
+  },
+  "description" : "Test Case Description: Verify Classic CRM Link is displayed on the Login page",
+  "descriptionHtml" : "<p>Test Case Description: Verify Classic CRM Link is displayed on the Login page</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598474463891,
+      "stop" : 1598474474959,
+      "duration" : 11068
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description: Verify Classic CRM Link is displayed on the Login page",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Validate Method: Classic CRM Link",
+      "time" : {
+        "start" : 1598474475260,
+        "stop" : 1598474475347,
+        "duration" : 87
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Step: Verify Classic CRM link is present",
+        "time" : {
+          "start" : 1598474475261,
+          "stop" : 1598474475346,
+          "duration" : 85
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1598474475772,
+      "stop" : 1598474476950,
+      "duration" : 1178
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "classicCRMlnkTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "LIN57000094"
+  }, {
+    "name" : "thread",
+    "value" : "36056@LIN57000094.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "User Story: Classic CRM Link Present"
+  }, {
+    "name" : "epic",
+    "value" : "EP002"
+  }, {
+    "name" : "feature",
+    "value" : "Feature 2: Verify Classic CRM Link"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aac22af47cd335e8.json",
+  "parameterValues" : [ ]
+}

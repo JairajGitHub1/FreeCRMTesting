@@ -1,0 +1,147 @@
+{
+  "uid" : "dbb134ffe787508b",
+  "name" : "Validate: Login Page is displayed",
+  "fullName" : "com.crm.qa.testcases.LoginPageTest.loginPageTileTest",
+  "historyId" : "e1d277bb883afba9404db6bfbcee7c8a",
+  "time" : {
+    "start" : 1598468872429,
+    "stop" : 1598468872492,
+    "duration" : 63
+  },
+  "description" : "Test Case Description: Verify Login Page Name is displayed as:  Cogmento CRM",
+  "descriptionHtml" : "<p>Test Case Description: Verify Login Page Name is displayed as:  Cogmento CRM</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1598468860580,
+      "stop" : 1598468872303,
+      "duration" : 11723
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description: Verify Login Page Name is displayed as:  Cogmento CRM",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Validate Method: Login Page Tile",
+      "time" : {
+        "start" : 1598468872459,
+        "stop" : 1598468872485,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Step: Fetching Title for the Login Page",
+        "time" : {
+          "start" : 1598468872462,
+          "stop" : 1598468872475,
+          "duration" : 13
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1598468872653,
+      "stop" : 1598468874008,
+      "duration" : 1355
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginPageTileTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.crm.qa.testcases.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "LIN57000094"
+  }, {
+    "name" : "thread",
+    "value" : "23084@LIN57000094.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Feature 1: Application Login Feature"
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "story",
+    "value" : "User Story: Validate Login Successful"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbb134ffe787508b.json",
+  "parameterValues" : [ ]
+}

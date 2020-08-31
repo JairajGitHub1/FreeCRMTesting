@@ -1,0 +1,1029 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LIN57000094",
+    "children" : [ {
+      "name" : "36056@LIN57000094.main(1)",
+      "children" : [ {
+        "name" : "selectSingleContactsTest",
+        "uid" : "3927519a6fdf432b",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474534789,
+          "stop" : 1598474540699,
+          "duration" : 5910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyContactsLinkTest",
+        "uid" : "fe64ffabb0b2a43c",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474509002,
+          "stop" : 1598474510291,
+          "duration" : 1289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyContactsPageLabel",
+        "uid" : "eba88f5a6650c68e",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474522767,
+          "stop" : 1598474522870,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectMultipleContactsTest",
+        "uid" : "de485b91684ec069",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474553098,
+          "stop" : 1598474559101,
+          "duration" : 6003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Classic CRM Link",
+        "uid" : "aac22af47cd335e8",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474475259,
+          "stop" : 1598474475350,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "485dd7069c15945c",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474573405,
+          "stop" : 1598474580974,
+          "duration" : 7569
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Tom", "Peter", "Google", "tomo.peter@google.com" ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "477505081154c417",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474592803,
+          "stop" : 1598474602483,
+          "duration" : 9680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chris", "Holier", "Amazon", "chris.holier@amazon.com" ]
+      }, {
+        "name" : "Validate: Login Page is displayed",
+        "uid" : "ae2ebd856bb8f72f",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474475058,
+          "stop" : 1598474475105,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "bad707d55def2630",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474486922,
+          "stop" : 1598474486928,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login is successful and Homepage is displayed",
+        "uid" : "13e4313b8669c25d",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474475363,
+          "stop" : 1598474475756,
+          "duration" : 393
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "89ba0480f7ad738b",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474615204,
+          "stop" : 1598474624028,
+          "duration" : 8824
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Ram", "Adarsh", "ebay", "ram.adarsh@ebay.com" ]
+      }, {
+        "name" : "verifyUserNameTest",
+        "uid" : "7b5b0bce0b0c3fdd",
+        "parentUid" : "861fdeb1e30a56841accad0121b6b498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474497227,
+          "stop" : 1598474498107,
+          "duration" : 880
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "861fdeb1e30a56841accad0121b6b498"
+    }, {
+      "name" : "33748@LIN57000094.main(1)",
+      "children" : [ {
+        "name" : "validateCreateNewContact",
+        "uid" : "3387a388b920c67d",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563570140,
+          "stop" : 1598563577936,
+          "duration" : 7796
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Ram", "Adarsh", "ebay", "ram.adarsh@ebay.com" ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "4a8517399ff1487c",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563299786,
+          "stop" : 1598563299801,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyUserNameTest",
+        "uid" : "c7413f3f8c67c30b",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563328030,
+          "stop" : 1598563329013,
+          "duration" : 983
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyContactsPageLabel",
+        "uid" : "1cfc4187d0a8adc0",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563389592,
+          "stop" : 1598563389629,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectSingleContactsTest",
+        "uid" : "9a7c24bd1cd533d6",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563420006,
+          "stop" : 1598563425237,
+          "duration" : 5231
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "d33add9bb07519ae",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563531747,
+          "stop" : 1598563539783,
+          "duration" : 8036
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chris", "Holier", "Amazon", "chris.holier@amazon.com" ]
+      }, {
+        "name" : "Validate: Classic CRM Link",
+        "uid" : "ad37de871b923dd2",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563270224,
+          "stop" : 1598563270314,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "71ed72cc2eff939d",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563493253,
+          "stop" : 1598563501635,
+          "duration" : 8382
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Tom", "Peter", "Google", "tomo.peter@google.com" ]
+      }, {
+        "name" : "verifyContactsLinkTest",
+        "uid" : "1d60bac2f507c576",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563357996,
+          "stop" : 1598563359229,
+          "duration" : 1233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login Page is displayed",
+        "uid" : "a5ebf9cd97255ed0",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563269885,
+          "stop" : 1598563270010,
+          "duration" : 125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectMultipleContactsTest",
+        "uid" : "4cbf18839d64f520",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563454682,
+          "stop" : 1598563460915,
+          "duration" : 6233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login is successful and Homepage is displayed",
+        "uid" : "9cef074b5d792a3",
+        "parentUid" : "0a2271378d80ddf6b2fcf9844060ab16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598563270326,
+          "stop" : 1598563270789,
+          "duration" : 463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0a2271378d80ddf6b2fcf9844060ab16"
+    }, {
+      "name" : "1460@LIN57000094.main(1)",
+      "children" : [ {
+        "name" : "verifyContactsLinkTest",
+        "uid" : "9917edb84d13fd8a",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598707506061,
+          "stop" : 1598707507457,
+          "duration" : 1396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyUserNameTest",
+        "uid" : "c98b284a86174423",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598707492883,
+          "stop" : 1598707493763,
+          "duration" : 880
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "8f5983e06b8d7721",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598707685485,
+          "stop" : 1598707713539,
+          "duration" : 28054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Ram", "Adarsh", "ebay", "ram.adarsh@ebay.com" ]
+      }, {
+        "name" : "Validate: Login is successful and Homepage is displayed",
+        "uid" : "fb11b814eb7f4227",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598707467216,
+          "stop" : 1598707467673,
+          "duration" : 457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectSingleContactsTest",
+        "uid" : "380c542cfad0c2c1",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598707535571,
+          "stop" : 1598707561737,
+          "duration" : 26166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyContactsPageLabel",
+        "uid" : "70d2d7b7cca5eb29",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598707522627,
+          "stop" : 1598707522658,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login Page is displayed",
+        "uid" : "8de5cec9da255269",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598707466824,
+          "stop" : 1598707466872,
+          "duration" : 48
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectMultipleContactsTest",
+        "uid" : "9a53fb9883a7505a",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598707576770,
+          "stop" : 1598707604594,
+          "duration" : 27824
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "3bab0a43a83e000d",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598707480526,
+          "stop" : 1598707480532,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "98aa9c5e80804867",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598707620132,
+          "stop" : 1598707628720,
+          "duration" : 8588
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Tom", "Peter", "Google", "tomo.peter@google.com" ]
+      }, {
+        "name" : "Validate: Classic CRM Link",
+        "uid" : "e934f44e207c52e2",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598707467083,
+          "stop" : 1598707467203,
+          "duration" : 120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "8258db2086487067",
+        "parentUid" : "7a0041f63ba415ebf9821c86cc0b467d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598707643852,
+          "stop" : 1598707669176,
+          "duration" : 25324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chris", "Holier", "Amazon", "chris.holier@amazon.com" ]
+      } ],
+      "uid" : "7a0041f63ba415ebf9821c86cc0b467d"
+    }, {
+      "name" : "28088@LIN57000094.main(1)",
+      "children" : [ {
+        "name" : "Validate: Login Page is displayed",
+        "uid" : "76d5ac1c427172f7",
+        "parentUid" : "ad16ff0e6a21addd5d663f8491ca6cd6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598469018784,
+          "stop" : 1598469018833,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Classic CRM Link",
+        "uid" : "33f2cd4d72ba6d3e",
+        "parentUid" : "ad16ff0e6a21addd5d663f8491ca6cd6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598469023099,
+          "stop" : 1598469023100,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Classic CRM Link",
+        "uid" : "1d9de1b6d0384ec1",
+        "parentUid" : "ad16ff0e6a21addd5d663f8491ca6cd6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598469020508,
+          "stop" : 1598469022094,
+          "duration" : 1586
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad16ff0e6a21addd5d663f8491ca6cd6"
+    }, {
+      "name" : "24232@LIN57000094.main(1)",
+      "children" : [ {
+        "name" : "verifyUserNameTest",
+        "uid" : "3c2f7769d8c3384",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474196167,
+          "stop" : 1598474196998,
+          "duration" : 831
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectSingleContactsTest",
+        "uid" : "28be84129b385d83",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474233522,
+          "stop" : 1598474239205,
+          "duration" : 5683
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Classic CRM Link",
+        "uid" : "c2d3ff55180274ae",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474174972,
+          "stop" : 1598474175073,
+          "duration" : 101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login Page is displayed",
+        "uid" : "b28c6d49665d9c66",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474174729,
+          "stop" : 1598474174776,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyContactsLinkTest",
+        "uid" : "ee4ccace46adbe57",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474207244,
+          "stop" : 1598474208664,
+          "duration" : 1420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "7b03eb5f79c27f70",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598474308881,
+          "stop" : 1598474334176,
+          "duration" : 25295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chris", "Holier", "Amazon", "chris.holier@amazon.com" ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "eb2d7460958777c2",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474346121,
+          "stop" : 1598474354832,
+          "duration" : 8711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Ram", "Adarsh", "ebay", "ram.adarsh@ebay.com" ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "864b2a3d1bc399b8",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474186234,
+          "stop" : 1598474186247,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login is successful and Homepage is displayed",
+        "uid" : "339330a139aeaf08",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474175082,
+          "stop" : 1598474175485,
+          "duration" : 403
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyContactsPageLabel",
+        "uid" : "ef929494dfdd5278",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474220477,
+          "stop" : 1598474220811,
+          "duration" : 334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectMultipleContactsTest",
+        "uid" : "6816b75f39fa5eab",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598474250814,
+          "stop" : 1598474256412,
+          "duration" : 5598
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "ec3c9c1b6842a395",
+        "parentUid" : "eca3c02c07a9a206d5787a733345121c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598474269935,
+          "stop" : 1598474296511,
+          "duration" : 26576
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Tom", "Peter", "Google", "tomo.peter@google.com" ]
+      } ],
+      "uid" : "eca3c02c07a9a206d5787a733345121c"
+    }, {
+      "name" : "36696@LIN57000094.main(1)",
+      "children" : [ {
+        "name" : "verifyContactsPageLabel",
+        "uid" : "7f304f4791afeb12",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472477670,
+          "stop" : 1598472477988,
+          "duration" : 318
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectMultipleContactsTest",
+        "uid" : "d67295d7e86ca98b",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472510572,
+          "stop" : 1598472515905,
+          "duration" : 5333
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyContactsLinkTest",
+        "uid" : "b05153e398a39885",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472463583,
+          "stop" : 1598472464994,
+          "duration" : 1411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectSingleContactsTest",
+        "uid" : "bca605c94fd5d391",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472490961,
+          "stop" : 1598472496601,
+          "duration" : 5640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "7e1c4ad3fbc1b411",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472568838,
+          "stop" : 1598472577907,
+          "duration" : 9069
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chris", "Holier", "Amazon", "chris.holier@amazon.com" ]
+      }, {
+        "name" : "Validate: Classic CRM Link",
+        "uid" : "806aae2132251722",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472430139,
+          "stop" : 1598472430260,
+          "duration" : 121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyUserNameTest",
+        "uid" : "70e81e7c4f92eed1",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472451692,
+          "stop" : 1598472452587,
+          "duration" : 895
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "320fe5df12e85551",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598472531192,
+          "stop" : 1598472556201,
+          "duration" : 25009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Tom", "Peter", "Google", "tomo.peter@google.com" ]
+      }, {
+        "name" : "Validate: Login Page is displayed",
+        "uid" : "d603ad5632f9e930",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472429878,
+          "stop" : 1598472429957,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "ee03d7661b36a6f0",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472591166,
+          "stop" : 1598472600224,
+          "duration" : 9058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Ram", "Adarsh", "ebay", "ram.adarsh@ebay.com" ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "a1270c64110b79d1",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472441487,
+          "stop" : 1598472441493,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login is successful and Homepage is displayed",
+        "uid" : "92eb88cf73a8c1b8",
+        "parentUid" : "ea9bfc24c82186153a7027c24ac72bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598472430274,
+          "stop" : 1598472430689,
+          "duration" : 415
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea9bfc24c82186153a7027c24ac72bd0"
+    }, {
+      "name" : "34520@LIN57000094.main(1)",
+      "children" : [ {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "7690c35b1adea2b0",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470557147,
+          "stop" : 1598470557152,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Classic CRM Link",
+        "uid" : "976e6118ff297168",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470545568,
+          "stop" : 1598470545658,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login is successful and Homepage is displayed",
+        "uid" : "5d7f78314a8f97fb",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470545667,
+          "stop" : 1598470546084,
+          "duration" : 417
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "90e471f9b2b70ace",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470650919,
+          "stop" : 1598470661723,
+          "duration" : 10804
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Tom", "Peter", "Google", "tomo.peter@google.com" ]
+      }, {
+        "name" : "selectMultipleContactsTest",
+        "uid" : "c429ddb0a9db2047",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470629766,
+          "stop" : 1598470635868,
+          "duration" : 6102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyUserNameTest",
+        "uid" : "feb559077ca80dea",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470568249,
+          "stop" : 1598470569181,
+          "duration" : 932
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate: Login Page is displayed",
+        "uid" : "7ce323c5a3009d00",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470545327,
+          "stop" : 1598470545379,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "b9da893112bb45eb",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470675812,
+          "stop" : 1598470686519,
+          "duration" : 10707
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chris", "Holier", "Amazon", "chris.holier@amazon.com" ]
+      }, {
+        "name" : "validateCreateNewContact",
+        "uid" : "dbee0146a2524c62",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470701531,
+          "stop" : 1598470711994,
+          "duration" : 10463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Ram", "Adarsh", "ebay", "ram.adarsh@ebay.com" ]
+      }, {
+        "name" : "verifyContactsLinkTest",
+        "uid" : "f5a768adb73ec145",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470582085,
+          "stop" : 1598470583709,
+          "duration" : 1624
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyContactsPageLabel",
+        "uid" : "ac3219b0c8aa580b",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470596380,
+          "stop" : 1598470596714,
+          "duration" : 334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "selectSingleContactsTest",
+        "uid" : "8e3cb3e49b1d7857",
+        "parentUid" : "4f2cf043d1276cdc956e465321882e8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598470612562,
+          "stop" : 1598470617564,
+          "duration" : 5002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4f2cf043d1276cdc956e465321882e8b"
+    }, {
+      "name" : "23084@LIN57000094.main(1)",
+      "children" : [ {
+        "name" : "Validate: Login Page is displayed",
+        "uid" : "dbb134ffe787508b",
+        "parentUid" : "293f9f908d1a1aca49869c680eaa95ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598468872429,
+          "stop" : 1598468872492,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "293f9f908d1a1aca49869c680eaa95ca"
+    } ],
+    "uid" : "6b089d04dcf571204865d993575517c8"
+  } ]
+}

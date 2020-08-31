@@ -1,0 +1,241 @@
+2020-09-01 00:15:54,433  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:15:54,436  INFO [main] TestBase:47 - Logger: ========= Browser Launched =========
+2020-09-01 00:15:54,459  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:15:54,468  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:01,831  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:16:01,858  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:09,173  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:09,212  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:09,213  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:09,215  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:09,216  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:09,319  INFO [main] TestBase:89 - ****************************************************************************************
+2020-09-01 00:16:09,319  INFO [main] TestBase:90 - ****************************************************************************************
+2020-09-01 00:16:09,319  INFO [main] TestBase:91 - $$$$$$$$$$$$$$$$$$$$$             Login Page Tile Test         $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-09-01 00:16:09,319  INFO [main] TestBase:93 - ****************************************************************************************
+2020-09-01 00:16:09,319  INFO [main] TestBase:94 - ****************************************************************************************
+2020-09-01 00:16:09,335  INFO [main] TestBase:106 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-09-01 00:16:09,335  INFO [main] TestBase:107 - X
+2020-09-01 00:16:09,335  INFO [main] TestBase:108 - X
+2020-09-01 00:16:09,336  INFO [main] TestBase:109 - X
+2020-09-01 00:16:09,336  INFO [main] TestBase:110 - X
+2020-09-01 00:16:09,455  INFO [main] TestBase:124 - ****************************************************************************************
+2020-09-01 00:16:09,455  INFO [main] TestBase:125 - ****************************************************************************************
+2020-09-01 00:16:09,455  INFO [main] TestBase:126 - $$$$$$$$$$$$$$$$$$$$$                 classicCRMlnkTest        $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-09-01 00:16:09,455  INFO [main] TestBase:128 - ****************************************************************************************
+2020-09-01 00:16:09,455  INFO [main] TestBase:129 - ****************************************************************************************
+2020-09-01 00:16:09,555  INFO [main] TestBase:141 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-09-01 00:16:09,555  INFO [main] TestBase:142 - X
+2020-09-01 00:16:09,555  INFO [main] TestBase:143 - X
+2020-09-01 00:16:09,556  INFO [main] TestBase:144 - X
+2020-09-01 00:16:09,556  INFO [main] TestBase:145 - X
+2020-09-01 00:16:09,573  INFO [main] TestBase:160 - ****************************************************************************************
+2020-09-01 00:16:09,574  INFO [main] TestBase:161 - ****************************************************************************************
+2020-09-01 00:16:09,574  INFO [main] TestBase:162 - $$$$$$$$$$$$$$$$$$$$$                  Login Test              $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-09-01 00:16:09,576  INFO [main] TestBase:163 - ****************************************************************************************
+2020-09-01 00:16:09,578  INFO [main] TestBase:164 - ****************************************************************************************
+2020-09-01 00:16:10,035  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:10,035  INFO [main] TestBase:174 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-09-01 00:16:10,035  INFO [main] TestBase:175 - X
+2020-09-01 00:16:10,035  INFO [main] TestBase:176 - X
+2020-09-01 00:16:10,036  INFO [main] TestBase:177 - X
+2020-09-01 00:16:10,036  INFO [main] TestBase:178 - X
+2020-09-01 00:16:11,007  INFO [main] TestBase:195 - *******************************************************************************************************
+2020-09-01 00:16:11,007  INFO [main] TestBase:196 - XXXXXXXXXXXXXXXXXXXXXXX                Teardown Completed                  XXXXXXXXXXXXXXXXXXXXXX
+2020-09-01 00:16:11,007  INFO [main] TestBase:197 - *******************************************************************************************************
+2020-09-01 00:16:15,321  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:16:15,322  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:20,780  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:20,781  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:20,782  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:20,783  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:20,785  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:20,786  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:21,191  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:26,584  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:16:26,587  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:31,433  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:31,434  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:31,434  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:31,435  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:31,435  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:31,436  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:31,851  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:38,318  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:16:38,320  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:43,801  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:43,802  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:43,803  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:43,806  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:43,808  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:43,812  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:44,198  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:45,343  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:50,420  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:16:50,421  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:54,941  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:54,942  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:54,942  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:54,943  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:54,943  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:54,944  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:54,944  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:55,350  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:16:56,587  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:01,440  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:17:01,444  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:06,374  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:06,375  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:06,375  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:06,376  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:06,376  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:06,376  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:06,377  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:06,798  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:07,854  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:17,426  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:17:17,427  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:22,409  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:22,410  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:22,412  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:22,413  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:22,413  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:22,414  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:22,415  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:22,809  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:23,870  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:35,091  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:17:35,095  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:40,774  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:40,774  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:40,775  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:40,775  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:40,775  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:40,776  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:40,776  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:41,178  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:17:42,250  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:12,306  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:18:12,309  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:16,835  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:16,836  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:16,836  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:16,837  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:16,837  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:16,837  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:16,838  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:17,237  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:18,300  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:31,375  INFO [main] TestBase:118 - Logger: ========= Firefox Driver Launched =========
+2020-09-01 00:18:31,375  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:37,868  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:37,868  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:37,869  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:37,870  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:37,871  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:37,872  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:37,873  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:38,250  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:39,819  INFO [main] TestBase:89 - Logger: ========= Inside TestBase Constructor =========
+2020-09-01 00:18:47,426 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,428 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2020-09-01 00:18:47,430 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2020-09-01 00:18:47,430 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2020-09-01 00:18:47,431 DEBUG [main] cache:44 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2020-09-01 00:18:47,615 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,615 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2020-09-01 00:18:47,616 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2020-09-01 00:18:47,616 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2020-09-01 00:18:47,616 DEBUG [main] cache:44 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2020-09-01 00:18:47,650 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,650 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2020-09-01 00:18:47,651 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2020-09-01 00:18:47,651 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2020-09-01 00:18:47,651 DEBUG [main] cache:44 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2020-09-01 00:18:47,659 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,660 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2020-09-01 00:18:47,660 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2020-09-01 00:18:47,661 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2020-09-01 00:18:47,661 DEBUG [main] cache:44 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2020-09-01 00:18:47,662 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,663 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2020-09-01 00:18:47,663 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2020-09-01 00:18:47,663 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2020-09-01 00:18:47,664 DEBUG [main] cache:44 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2020-09-01 00:18:47,665 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,666 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2020-09-01 00:18:47,666 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2020-09-01 00:18:47,666 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2020-09-01 00:18:47,667 DEBUG [main] cache:44 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2020-09-01 00:18:47,668 DEBUG [main] cache:44 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,678 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,678 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2020-09-01 00:18:47,678 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2020-09-01 00:18:47,679 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2020-09-01 00:18:47,679 DEBUG [main] cache:44 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2020-09-01 00:18:47,680 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,681 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2020-09-01 00:18:47,681 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2020-09-01 00:18:47,681 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2020-09-01 00:18:47,681 DEBUG [main] cache:44 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2020-09-01 00:18:47,682 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,683 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2020-09-01 00:18:47,683 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2020-09-01 00:18:47,683 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2020-09-01 00:18:47,683 DEBUG [main] cache:44 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2020-09-01 00:18:47,690 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,690 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2020-09-01 00:18:47,691 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2020-09-01 00:18:47,691 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2020-09-01 00:18:47,691 DEBUG [main] cache:44 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2020-09-01 00:18:47,693 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,693 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2020-09-01 00:18:47,693 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2020-09-01 00:18:47,694 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2020-09-01 00:18:47,694 DEBUG [main] cache:44 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2020-09-01 00:18:47,712 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,712 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2020-09-01 00:18:47,713 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2020-09-01 00:18:47,713 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2020-09-01 00:18:47,713 DEBUG [main] cache:44 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2020-09-01 00:18:47,717 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,718 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,719 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,719 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,720 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,720 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,721 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,722 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,722 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,726 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,727 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-01 00:18:47,728 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,728 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2020-09-01 00:18:47,728 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2020-09-01 00:18:47,729 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2020-09-01 00:18:47,729 DEBUG [main] cache:44 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/exception.ftl"
+2020-09-01 00:18:47,732 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,732 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2020-09-01 00:18:47,733 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2020-09-01 00:18:47,733 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2020-09-01 00:18:47,733 DEBUG [main] cache:44 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2020-09-01 00:18:47,783 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,784 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2020-09-01 00:18:47,784 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2020-09-01 00:18:47,785 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2020-09-01 00:18:47,785 DEBUG [main] cache:44 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2020-09-01 00:18:47,787 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,788 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2020-09-01 00:18:47,789 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2020-09-01 00:18:47,790 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2020-09-01 00:18:47,790 DEBUG [main] cache:44 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+2020-09-01 00:18:47,873 DEBUG [main] cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,873 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-09-01 00:18:47,874 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-01 00:18:47,874 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-01 00:18:47,874 DEBUG [main] cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-01 00:18:47,935 DEBUG [main] cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-09-01 00:18:47,936 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-09-01 00:18:47,936 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-01 00:18:47,936 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-01 00:18:47,936 DEBUG [main] cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jaikuria/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
