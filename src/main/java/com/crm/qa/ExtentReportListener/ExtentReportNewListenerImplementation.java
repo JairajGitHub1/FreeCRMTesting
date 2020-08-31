@@ -129,6 +129,7 @@ public class ExtentReportNewListenerImplementation extends ObjectsRepo implement
 		
 		//Simple date formatter
 		SimpleDateFormat format = new SimpleDateFormat("MM-dd-yyyy' 'HH-mm-ss");
+		System.out.println("Date Format: "+ format);
 		//SimpleDateFormat format = new SimpleDateFormat("EEE, d MMM yyyy HH:mm:ss Z");
 		//SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy");
 		//////////////////////////////////////////////////////////////////////
@@ -136,7 +137,7 @@ public class ExtentReportNewListenerImplementation extends ObjectsRepo implement
 		// Get Current Date
 		Date date = new Date();
 		String actualDate = format.format(date);
-	
+		System.out.println("ExtentReportNewListenerImplementation : Date Format: "+ actualDate);	
 		//Create Screenshot Path
 		String screenshotPath = System.getProperty("user.dir") + "\\Reports\\Screenshots_"+actualDate+".png";
 		

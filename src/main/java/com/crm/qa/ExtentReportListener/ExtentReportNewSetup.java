@@ -31,7 +31,7 @@ public class ExtentReportNewSetup extends ObjectsRepo {
 		System.out.println("Inside: Extent Report New Setup. Java");
 		
 		String reportPath = System.getProperty("user.dir") + "\\Reports\\NewExtentReport_"+actualDate+".html";
-		System.out.println(reportPath);
+		System.out.println("ExtentReportNewSetup : Report Path (Date Format): "+ actualDate);
 		
 		ExtentSparkReporter sparkReporter=new ExtentSparkReporter(reportPath);		
 		
