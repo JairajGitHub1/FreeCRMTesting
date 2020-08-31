@@ -121,8 +121,8 @@ public class ExtentReportNewListenerImplementation extends ObjectsRepo implement
 		
 		// On Failure this method will be called
 		ExtenttestStep.log(Status.FAIL, "Test Case: " + result.getMethod().getMethodName() + " : Failed");
-		ExtenttestStep.log(Status.FAIL,"Please click below for details: \n: " + result.getThrowable());
-		
+		ExtenttestStep.log(Status.FAIL,"Click: Below to see failure details");
+		ExtenttestStep.log(Status.FAIL,result.getThrowable());	
 		///////////// Convert This to a Method ////////////////////////////////
 		//Add Screenshot for failed Test
 		File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
